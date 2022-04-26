@@ -1,0 +1,5 @@
+﻿Bugs:
+- (DONE) Whenever the user gives a wrong password the program throws the CryptographicException and it doesn't relese the resources connected to the method
+- (Postpone for v1.0.1) You can encode files already encoded and decode files that are not encoded
+- Set up the Exception handler
+- Implement a request for full encode of a directory and sub-directories
