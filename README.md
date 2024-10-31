@@ -7,7 +7,7 @@ It's fully coded in C# and I used the winform framework. It is a really simple a
 ## How to use it??
 The friendly UI helps you to understand how to use it. <br />
 
-<img src="https://github.com/FrancescoMaca/FrancescoMaca/blob/main/images/Crypto.png" alt="Crypto UI" height=350>
+<img src="https://raw.githubusercontent.com/FrancescoMaca/Crypto/main/images/ui.png" alt="Crypto UI" height=450>
 
 ## 🟢 Input<br />
 There are two types of inputs in Crypto. One is `file` and the other one is `folder`. <br />
@@ -26,7 +26,8 @@ It needs to be between `1` and `32` characters long though.
 ## 🔵 Output Data<br />
 This section gives you information about the application status and about the `file size`.
 
-<img src="https://github.com/FrancescoMaca/FrancescoMaca/blob/main/images/Crypto_info.png" alt="Crypto UI with markup" height=350>
+<img src="https://raw.githubusercontent.com/FrancescoMaca/Crypto/main/images/encode.png" alt="Crypto UI with markup" height=450>
+<img src="https://raw.githubusercontent.com/FrancescoMaca/Crypto/main/images/decode.png" alt="Crypto UI with markup" height=450>
 
 
 ## Bugs
